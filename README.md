@@ -1,4 +1,4 @@
-# Projet-ENSAE-DSSS
+# Media Coverage of Climate Change
 
 ## Data Collection
 The data collection folder contains the articles scrapped, the basic preprocessing (see notebook 'MCCC - creation of datasets') and the resulting datasets.
