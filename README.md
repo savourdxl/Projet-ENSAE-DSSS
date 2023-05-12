@@ -17,4 +17,4 @@ This folder contains the notebook to perform a basic comparison of attention to 
 This folder contains the notebook used to set up and apply bertopic to our data, as well as the resulting dataframes (articles and their topics - all_docs_topics.csv, themes evolution - all_themes.csv).
 
 ## LSTM
-This folder contains ... .
+This folder contains the notebook used to set up and apply LSTM.
